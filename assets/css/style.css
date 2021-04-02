@@ -271,3 +271,15 @@ section {
 .contact-info a {
     color: #fce138;
 }
+
+.hero {
+    margin: 20px;
+    font-size: 20px;
+    background-color: white;
+    color: blue;
+}
+
+.hero-secondary {
+    background-color: black;
+    color: red;
+}
